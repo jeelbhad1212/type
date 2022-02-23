@@ -20,7 +20,7 @@ console.log(typeof add);
 
 var a:number=10;
 console.log(a);
-
+console.log("hello");
 //array
 var myarr:number[]=[1,2,3,4];
 myarr.push(4,5);
